@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82685329683",
+    "firebase_url": "https://whatsappyzd.firebaseio.com",
+    "project_id": "whatsappyzd",
+    "storage_bucket": "whatsappyzd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82685329683:android:9ecd7ba49935810cc4dae6",
+        "android_client_info": {
+          "package_name": "com.yazidal.whatsappyzd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82685329683-8ffodb2i9obss64ujvncgo924ffmgd73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazidal.whatsappyzd",
+            "certificate_hash": "99e519ca63af0f5d43fc76523f45ec16f9b08cdc"
+          }
+        },
+        {
+          "client_id": "82685329683-s4sqsevifcmjdpp75vte9v5kihautafm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRbETD_vpempLn_E1pAFYMgC78sBG09W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82685329683-s4sqsevifcmjdpp75vte9v5kihautafm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
